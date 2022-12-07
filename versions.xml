@@ -2,11 +2,11 @@
 <modules>
    <module>
       <name>RA6T1</name>
-      <url>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardPictures/RA6T1.png</url>
+      <url>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T1.png</url>
    </module>
    <module>
       <name>RA6T2</name>
-      <url>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardPictures/RA6T2.png</url>
+      <url>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/4bffefa74e302347fe03850881c09a40b76b6be3/BoardPictures/RA6T2.png</url>
    </module>
    <module>
       <name>RL78G1F</name>
