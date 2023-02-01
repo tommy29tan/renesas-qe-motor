@@ -13,6 +13,12 @@
 		   <Description>Any info</Description>
 		   <DownloadUrl>Url to download sample project</DownloadUrl>
 		</Program>
+		<Program>
+		   <Name>RA6T2 Encoder Vector Control</Name>
+		   <Version>1.1</Version>
+		   <Description>Any info</Description>
+		   <DownloadUrl>Url to download sample project</DownloadUrl>
+		</Program>
 	  </SampleProgram>
    </Board>
 </Boards>
