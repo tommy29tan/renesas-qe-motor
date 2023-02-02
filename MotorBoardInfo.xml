@@ -10,7 +10,7 @@
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
             <Version>1.0</Version>
             <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
+            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
          </SampleProgram>
          <SampleProgram>
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
