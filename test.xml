@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Boards>
    <Board>Test1
-      <BoardName>RA6T2</BoardName>
-      <BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</BoardImageUrl>
+      <BoardName>RA6T2	  
+      <BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png
+	  </BoardImageUrl>
+	  </BoardName>
    </Board>
 </Boards>
