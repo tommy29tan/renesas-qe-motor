@@ -3,71 +3,49 @@
    <Board>
       <BoardName>RA6T2</BoardName>
       <BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</BoardImageUrl>
+	  <BuyUrl>https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control#parametric_options</BuyUrl>
       <Cpu>
-         <PartNumber>R7FA6T2BD3CF3</PartNumber>
-         <BuyUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</BuyUrl>
+         <PartNumber>R7FA6T2AB3CFP</PartNumber>
          <SampleProgram>
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.0</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
+            <Version>
+			    <VersionNumber>1.0</VersionNumber>
+				<ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
+				<ZipDownloadUrl>https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65</ZipDownloadUrl>
+			</Version>
+			<Version>
+			    <VersionNumber>1.1</VersionNumber>
+				<ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
+				<ZipDownloadUrl>https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65</ZipDownloadUrl>
+			</Version>
          </SampleProgram>
          <SampleProgram>
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.1</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
+            <Version>
+				<VersionNumber>1.1</VersionNumber>
+				<ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
+				<ZipDownloadUrl>https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65</ZipDownloadUrl>
+			</Version>
          </SampleProgram>
       </Cpu>
       <Cpu>
-         <PartNumber>R7FA6T2BD3CFP</PartNumber>
-         <BuyUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</BuyUrl>
+         <PartNumber>R7FA6T2AD3CFP</PartNumber>
+         <BuyUrl>https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65</BuyUrl>
          <SampleProgram>
-            <Version>1.0</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
+			<ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
+            <Version>
+				<VersionNumber>1.0</VersionNumber>
+				<ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
+				<ZipDownloadUrl>https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65</ZipDownloadUrl>
+			</Version>
          </SampleProgram>
          <SampleProgram>
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.1</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
-         </SampleProgram>
-      </Cpu>
-   </Board>
-   <Board>
-      <BoardName>RA6T1</BoardName>
-      <BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T1.png</BoardImageUrl>
-      <Cpu>
-         <PartNumber>R7FA6T2BD3CFP</PartNumber>
-         <BuyUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</BuyUrl>
-         <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.0</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
-         </SampleProgram>
-         <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.1</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
-         </SampleProgram>
-      </Cpu>
-      <Cpu>
-         <PartNumber>R7FA6T2BD3CFC</PartNumber>
-         <BuyUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</BuyUrl>
-         <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.0</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
-         </SampleProgram>
-         <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
-            <Version>1.1</Version>
-            <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
-            <ZipDownloadUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/a72066ef622961d71917731d3291aded5b193b4d/BoardPictures/RA6T2.png</ZipDownloadUrl>
+            <Version>
+				<VersionNumber>1.1</VersionNumber>
+				<ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
+				<ZipDownloadUrl>https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65</ZipDownloadUrl>
+			</Version>
          </SampleProgram>
       </Cpu>
    </Board>
