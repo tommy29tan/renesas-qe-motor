@@ -20,7 +20,7 @@
             </Version>
          </SampleProgram>
          <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
+            <ProgramName>RA6T2 Encoder Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
@@ -31,7 +31,7 @@
       <Cpu>
          <PartNumber>R7FA6T2AD3CFP</PartNumber>
          <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
+            <ProgramName>RA6T2 Induction Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
@@ -39,7 +39,7 @@
             </Version>
          </SampleProgram>
          <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
+            <ProgramName>RA6T2 Hall Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
