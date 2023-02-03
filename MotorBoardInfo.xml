@@ -30,7 +30,6 @@
       </Cpu>
       <Cpu>
          <PartNumber>R7FA6T2AD3CFP</PartNumber>
-         <BuyUrl>https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control#parametric_options</BuyUrl>
          <SampleProgram>
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
             <Version>
