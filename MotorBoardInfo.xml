@@ -37,7 +37,7 @@
          <SRamSize>64KB</SRamSize>
          <PinCount>100</PinCount>
          <SampleProgram>
-            <ProgramName>RA6T2 Induction Vector Control</ProgramName>
+            <ProgramName>RA6T1 Induction Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
@@ -64,7 +64,7 @@
          <SRamSize>64KB</SRamSize>
          <PinCount>48</PinCount>
          <SampleProgram>
-            <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
+            <ProgramName>RA6T1 Sensorless Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
