@@ -37,7 +37,7 @@
          <SRamSize>64KB</SRamSize>
          <PinCount>100</PinCount>
          <SampleProgram>
-            <ProgramName>RA6T1 Induction Vector Control</ProgramName>
+            <ProgramName>RA6T2 Induction Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
@@ -77,7 +77,7 @@
             </Version>
          </SampleProgram>
          <SampleProgram>
-            <ProgramName>RA6T2 Encoder Vector Control</ProgramName>
+            <ProgramName>RA6T1 Encoder Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
@@ -91,7 +91,7 @@
          <SRamSize>64KB</SRamSize>
          <PinCount>100</PinCount>
          <SampleProgram>
-            <ProgramName>RA6T2 Induction Vector Control</ProgramName>
+            <ProgramName>RA6T1 Induction Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
@@ -99,7 +99,7 @@
             </Version>
          </SampleProgram>
          <SampleProgram>
-            <ProgramName>RA6T2 Hall Vector Control</ProgramName>
+            <ProgramName>RA6T1 Hall Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
                <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
