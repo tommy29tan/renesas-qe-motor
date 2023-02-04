@@ -33,9 +33,9 @@
       </Cpu>
       <Cpu>
          <PartNumber>R7FA6T2AD3CFP</PartNumber>
-         <FlashSize>512KB</FlashSize>
+         <FlashSize>256KB</FlashSize>
          <SRamSize>64KB</SRamSize>
-         <PinCount>48</PinCount>
+         <PinCount>100</PinCount>
          <SampleProgram>
             <ProgramName>RA6T2 Induction Vector Control</ProgramName>
             <Version>
