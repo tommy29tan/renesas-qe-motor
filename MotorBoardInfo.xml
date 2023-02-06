@@ -13,12 +13,10 @@
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
             </Version>
             <Version>
                <VersionNumber>1.1</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -26,7 +24,6 @@
             <ProgramName>RA6T2 Encoder Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -40,7 +37,6 @@
             <ProgramName>RA6T2 Induction Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -48,7 +44,6 @@
             <ProgramName>RA6T2 Hall Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -67,12 +62,10 @@
             <ProgramName>RA6T1 Sensorless Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
             <Version>
                <VersionNumber>1.1</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -80,7 +73,6 @@
             <ProgramName>RA6T1 Encoder Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -94,7 +86,6 @@
             <ProgramName>RA6T1 Induction Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.0</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
          </SampleProgram>
@@ -102,7 +93,6 @@
             <ProgramName>RA6T1 Hall Vector Control</ProgramName>
             <Version>
                <VersionNumber>1.1</VersionNumber>
-               <ZipFileName>r01an6206xx0101-motor.zip</ZipFileName>
                <ZipDownloadUrl><![CDATA[https://www.renesas.com/en-sg/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip?agent=e2studio_R7FA6T2AB&credentialId=9207e08400753188e453d48bb646c43d31ca0ced46cceca93b12ed02c8f58acf&ts=1675387196767&mac=0a9994d8eedcc936af29ed3265fa1774d71acaa4a161bdfba325bbedb13caf65]]></ZipDownloadUrl>
             </Version>
          </SampleProgram>
