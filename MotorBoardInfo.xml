@@ -8,7 +8,7 @@
          <CodeFlashSize>512KB</CodeFlashSize>
          <SRamSize>64KB</SRamSize>
          <PinCount>48</PinCount>
-         <BuyUrl>https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control#modalStockCheck</BuyUrl>
+         <BuyUrl>https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control?product-title=R7FA6T2AB3CFP#parametric_options</BuyUrl>
          <SampleProgram>
             <ProgramName>RA6T2 Sensorless Vector Control</ProgramName>
             <Version>
@@ -33,7 +33,7 @@
          <CodeFlashSize>256KB</CodeFlashSize>
          <SRamSize>64KB</SRamSize>
          <PinCount>100</PinCount>
-         <BuyUrl>https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control#modalStockCheck</BuyUrl>
+         <BuyUrl>https://www.renesas.com/sg/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control?product-title=R7FA6T2AD3CFP</BuyUrl>
          <SampleProgram>
             <ProgramName>RA6T2 Induction Vector Control</ProgramName>
             <Version>
