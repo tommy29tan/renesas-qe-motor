@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZipFiles>
+	<ZipFile>
+		<ZipName>r01an6206xx0101-motor.zip</ZipName>
+		<SensorType>Senorless</SensorType>
+		<ControlType>Vector Control</ControlType>
+		<ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
+		<SampleProject>
+			<ProjectName>RA6T2 Sensorless vector control for permanent magnet synchronous motor</ProjectName>
+			<Description>Explain this RA6T2 sensorless vector control project</Description>
+		</SampleProject>
+		<SampleProject>
+			<ProjectName>RA6T1 Sensorless vector control for permanent magnet synchronous motor</ProjectName>
+			<Description>Explain this RA6T1 sensorless vector control project</Description>
+		</SampleProject>
+	</ZipFile>
+</ZipFiles>
