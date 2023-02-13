@@ -2,7 +2,7 @@
 <ZipFiles>
 	<ZipFile>
 		<ZipName>r01an6206xx0101-motor.zip</ZipName>
-		<SensorType>Senorless</SensorType>
+		<SensorType>Sensorless</SensorType>
 		<ControlType>Vector Control</ControlType>
 		<ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
 		<SampleProject>
