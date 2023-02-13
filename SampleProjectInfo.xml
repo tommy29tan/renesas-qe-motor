@@ -9,9 +9,39 @@
 			<ProjectName>RA6T2 Sensorless vector control for permanent magnet synchronous motor</ProjectName>
 			<Description>Explain this RA6T2 sensorless vector control project</Description>
 		</SampleProject>
+	</ZipFile>
+	<ZipFile>
+		<ZipName>r01an6208xx0101-motor.zip</ZipName>
+		<SensorType>Encoder</SensorType>
+		<ControlType>Vector Control</ControlType>
+		<ZipDownloadUrl>/document/scd/ra6t2-vector-control-permanent-magnet-synchronous-motor-encoder-implementation/r01an6208xx0101-motor.zip</ZipDownloadUrl>
+		<SampleProject>
+			<ProjectName>RA6T2 Vector control for permanent magnet synchronous motor with encoder</ProjectName>
+			<Description>Explain this RA6T2 encoder vector control project</Description>
+		</SampleProject>
+	</ZipFile>
+	<ZipFile>
+		<ZipName>r01an5558xx0111-motor.zip</ZipName>
+		<SensorType>Sensorless</SensorType>
+		<ControlType>Vector Control</ControlType>
+		<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-permanent-magnetic-synchronous-motor-implementation-sample-code/r01an5558xx0111-motor.zip</ZipDownloadUrl>
 		<SampleProject>
 			<ProjectName>RA6T1 Sensorless vector control for permanent magnet synchronous motor</ProjectName>
 			<Description>Explain this RA6T1 sensorless vector control project</Description>
+		</SampleProject>
+	</ZipFile>
+	<ZipFile>
+		<ZipName>r01an6187xx0100-rx-encoderFOC.zip</ZipName>
+		<SensorType>Encoder</SensorType>
+		<ControlType>Vector Control</ControlType>
+		<ZipDownloadUrl>/document/scd/rx-encoder-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6187xx0100-rx-encoderFOC.zip</ZipDownloadUrl>
+		<SampleProject>
+			<ProjectName>RX23T encoder vector control for permanent magnet synchronous motor</ProjectName>
+			<Description>Explain this RX23T encoder vector control project</Description>
+		</SampleProject>
+		<SampleProject>
+			<ProjectName>RX26T encoder vector control for permanent magnet synchronous motor</ProjectName>
+			<Description>Explain this RX26T encoder vector control project</Description>
 		</SampleProject>
 	</ZipFile>
 </ZipFiles>
