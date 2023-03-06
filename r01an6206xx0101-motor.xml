@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZipFile>
+	<Category>Sensorless</Category>
+	<Category>Vector Control</Category>
+	<ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
+	<SampleProject>
+		<BoardName>MCK-RA6T2</BoardName>
+		<QESupported>true</QESupported>
+		<UnzipProjectPath>leave it empty,as no unzip action needed for RA</UnzipProjectPath>
+		<ProjectName>RA6T2 Sensorless vector control for permanent magnet synchronous motor</ProjectName>
+		<Description>This project is specific for RA6T2 permanent magnet synchronous motor with sensorless feedback and vector control</Description>
+	</SampleProject>
+</ZipFile>
