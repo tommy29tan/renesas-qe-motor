@@ -5,13 +5,13 @@
 		<DeviceName>RA6T2</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/224bc73ad6d046e4880488fde1ad5b769afad004/BoardPictures/RA6T2.png</BoardImageUrl>
 		<BuyUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/rtk0ema270s00020bj-mck-ra6t2-renesas-flexible-motor-control-kit-ra6t2-mcu-group#parametric_options</BuyUrl>
-		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/r01an6206xx0101-motor.xml</ProjectUrl>
+		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6206xx0101-motor.xml</ProjectUrl>
 	</Board>
 	<Board>
 		<BoardName>RSSK-RA6T1</BoardName>
 		<DeviceName>RA6T1</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/224bc73ad6d046e4880488fde1ad5b769afad004/BoardPictures/RA6T1.png</BoardImageUrl>
 		<BuyUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/rtk0ema170s00020bj-motor-control-evaluation-system-ra-family-ra6t1-group#parametric_options</BuyUrl>
-		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/r01an5558xx0111-motor.xml</ProjectUrl>
+		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an5558xx0111-motor.xml</ProjectUrl>
 	</Board>
 </Boards>
