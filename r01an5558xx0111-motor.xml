@@ -2,7 +2,7 @@
 <ZipFile>
 	<Category>Sensorless</Category>
 	<Category>Vector Control</Category>
-	<ZipDownloadUrl>/document/scd/ra6t2-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6206xx0101-motor.zip</ZipDownloadUrl>
+	<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-permanent-magnetic-synchronous-motor-implementation-sample-code/r01an5558xx0111-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<BoardName>RSSK-RA6T1</BoardName>
 		<DeviceName>RA6T1</DeviceName>
