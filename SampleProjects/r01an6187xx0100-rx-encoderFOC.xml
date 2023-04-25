@@ -7,6 +7,6 @@
 		<DeviceName>RX23T</DeviceName>
 		<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
 		<ProjectName>RX23T permanent magnet synchrounous motor with encoder vector control</ProjectName>
-		<Description>This project is for RX23T encoder vector control</Description>
+		<Description>This project is specific for RX23T permanent magnet synchronous motor with encoder feedback and vector control</Description>
 	</SampleProject>
 </ZipFile>
