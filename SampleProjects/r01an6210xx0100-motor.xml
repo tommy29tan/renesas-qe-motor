@@ -4,7 +4,6 @@
 	<Category>120 Degree Control</Category>
 	<ZipDownloadUrl>/document/scd/ra6t2-sensorless-120-degree-conducting-control-permanent-magnetic-synchronous-motor-implementation/r01an6210xx0100-motor.zip</ZipDownloadUrl>
 	<SampleProject>
-		<BoardName>MCK-RA6T2</BoardName>
 		<DeviceName>RA6T2</DeviceName>
 		<ProjectFolderName></ProjectFolderName>
 		<ProjectName>RA6T2 Sensorless 120-degree conducting control of permanent magnetic synchronous motor</ProjectName>

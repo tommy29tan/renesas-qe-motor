@@ -4,7 +4,6 @@
 	<Category>Vector Control</Category>
 	<ZipDownloadUrl>/document/scd/ra6t1-vector-control-permanent-magnet-synchronous-motor-encoder-implementation-sample-code/r01an5923xx0111-motor.zip</ZipDownloadUrl>
 	<SampleProject>
-		<BoardName>RSSK-RA6T1</BoardName>
 		<DeviceName>RA6T1</DeviceName>
 		<ProjectFolderName></ProjectFolderName>
 		<ProjectName>RA6T1 Vector control for permanent magnet synchronous motor with encoder</ProjectName>
