@@ -6,7 +6,7 @@
 	<SampleProject>
 		<DeviceName>RL78/G1F</DeviceName>
 		<ProjectFolderName></ProjectFolderName>
-		<ProjectName>RL78G1F Sensorless speed control of 120-degree conducting controlled permanent magnetic synchronous motor with detection of initial position</ProjectName>
-		<Description>This project is specific for RL78/G1F permanent magnet synchronous motor with sensorless feedback and 120 Degree conducting control</Description>
+		<ProjectName>RL78G1F Sensorless speed control of 120-degree conducting controlled permanent magnetic synchronous motor</ProjectName>
+		<Description>This project is specific for RL78/G1F permanent magnet synchronous motor with sensorless feedback and 120 Degree conducting control with detection of initial position</Description>
 	</SampleProject>
 </ZipFile>
