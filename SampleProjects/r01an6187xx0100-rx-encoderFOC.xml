@@ -2,7 +2,7 @@
 <ZipFile>
 	<Category>Encoder feedback</Category>
 	<Category>Vector Control</Category>
-	<ZipDownloadUrl>/document/scd/rx-encoder-vector-control-permanent-magnet-synchronous-motor-implementation/r01an6187xx0100-rx-encoderFOC.zip</ZipDownloadUrl>
+	<ZipDownloadUrl>/document/scd/vector-control-permanent-magnet-synchronous-motor-encoder-evaluation-system-bldc-motor-structure/r01an6187xx0100-rx-encoderFOC.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RX23T</DeviceName>
 		<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
