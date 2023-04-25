@@ -29,4 +29,15 @@
 			</Device>
 		</DeviceSeries>
 	</DeviceFamily>
+	<DeviceFamily>
+		<DeviceFamilyName>RL78</DeviceFamilyName>
+		<DeviceSeries>
+			<DeviceSeriesName>G1F</DeviceSeriesName>
+			<Device>
+				<DeviceName>RL78/G1F</DeviceName>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/an-r01an3596ej0110-motor.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an5114xx0200-rl78g1f-motor.xml</ProjectUrl>
+			</Device>
+		</DeviceSeries>
+	</DeviceFamily>
 </DeviceFamilies>
