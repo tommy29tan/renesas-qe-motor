@@ -3,7 +3,7 @@
 	<Board>
 		<BoardName>MCK-RA6T2</BoardName>
 		<DeviceName>RA6T2</DeviceName>
-		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/224bc73ad6d046e4880488fde1ad5b769afad004/BoardPictures/RA6T2.png</BoardImageUrl>
+		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/MCK-RA6T2.png</BoardImageUrl>
 		<BoardInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/rtk0ema270s00020bj-mck-ra6t2-renesas-flexible-motor-control-kit-ra6t2-mcu-group#parametric_options</BoardInfoUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6206xx0101-motor.xml</ProjectUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6208xx0101-motor.xml</ProjectUrl>
@@ -12,11 +12,18 @@
 	<Board>
 		<BoardName>RSSK-RA6T1</BoardName>
 		<DeviceName>RA6T1</DeviceName>
-		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/224bc73ad6d046e4880488fde1ad5b769afad004/BoardPictures/RA6T1.png</BoardImageUrl>
+		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSSK-RA6T1.png</BoardImageUrl>
 		<BoardInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/rtk0ema170s00020bj-motor-control-evaluation-system-ra-family-ra6t1-group#parametric_options</BoardInfoUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an5558xx0111-motor.xml</ProjectUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an5923xx0111-motor.xml</ProjectUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6258xx0100-motor.xml</ProjectUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6259xx0100-motor.xml</ProjectUrl>
+	</Board>
+	<Board>
+		<BoardName>RSK-RX23T</BoardName>
+		<DeviceName>RX23T</DeviceName>
+		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</BoardImageUrl>
+		<BoardInfoUrl>https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-starter-kit-renesas-starter-kit-rx23t#parametric_options</BoardInfoUrl>
+		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6187xx0100-rx-encoderFOC.xml</ProjectUrl>
 	</Board>
 </Boards>

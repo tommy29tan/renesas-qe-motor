@@ -19,4 +19,14 @@
 			</Device>
 		</DeviceSeries>
 	</DeviceFamily>
+	<DeviceFamily>
+		<DeviceFamilyName>RX</DeviceFamilyName>
+		<DeviceSeries>
+			<DeviceSeriesName>23T</DeviceSeriesName>
+			<Device>
+				<DeviceName>RX23T</DeviceName>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6187xx0100-rx-encoderFOC.xml</ProjectUrl>
+			</Device>
+		</DeviceSeries>
+	</DeviceFamily>
 </DeviceFamilies>
