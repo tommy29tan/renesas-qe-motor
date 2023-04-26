@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
 	<Category>Sensorless feedback</Category>
-	<Category>120 Degree Control</Category>
+	<Category>120 degree control</Category>
 	<ZipDownloadUrl>/document/scd/sensorless-detection-initial-position-rotor-rev110-sample-code/an-r01an3596ej0110-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RL78/G1F</DeviceName>

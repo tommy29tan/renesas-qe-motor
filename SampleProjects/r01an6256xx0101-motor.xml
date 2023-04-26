@@ -2,11 +2,11 @@
 <ZipFile>
 	<Category>Sensorless feedback</Category>
 	<Category>Vector control</Category>
-	<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-permanent-magnetic-synchronous-motor-implementation-sample-code/r01an5558xx0111-motor.zip</ZipDownloadUrl>
+	<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-one-shunt-permanent-magnet-synchronous-motor-implementation/r01an6256xx0101-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RA6T1</DeviceName>
 		<ProjectFolderName></ProjectFolderName>
-		<ProjectName>RA6T1 Sensorless vector control for permanent magnet synchronous motor</ProjectName>
+		<ProjectName>RA6T1 Sensorless vector control for permanent magnetic synchronous motor - 1shunt current detection</ProjectName>
 		<Description>This project is specific for RA6T1 permanent magnet synchronous motor with sensorless feedback and vector control</Description>
 	</SampleProject>
 </ZipFile>

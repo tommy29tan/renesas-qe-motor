@@ -2,7 +2,7 @@
 <ZipFile>
 	<Category>Sensorless feedback</Category>
 	<Category>Hall feedback</Category>
-	<Category>120 Degree Control</Category>
+	<Category>120 degree control</Category>
 	<ZipDownloadUrl>/document/scd/rl78g1f-120-degree-conducting-control-permanent-magnetic-synchronous-motor-implementation-sample/r01an5114xx0200-rl78g1f-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RL78/G1F</DeviceName>
