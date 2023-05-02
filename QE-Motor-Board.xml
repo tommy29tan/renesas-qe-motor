@@ -26,7 +26,7 @@
 		<BoardName>RSK-RX23T</BoardName>
 		<DeviceName>RX23T</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</BoardImageUrl>
-		<BoardInfoUrl>https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-starter-kit-renesas-starter-kit-rx23t#parametric_options</BoardInfoUrl>
+		<BoardInfoUrl>/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-starter-kit-renesas-starter-kit-rx23t#parametric_options</BoardInfoUrl>
 		<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6187xx0100-rx-encoderFOC.xml</ProjectUrl>
 	</Board>
 </Boards>
