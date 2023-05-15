@@ -70,7 +70,7 @@
 		<KitName>RTK500523TS90000BE</KitName>
 		<CpuInfoUrl>/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-32-bit-microcontroller-floating-point-unit-fpu-ideal-controlling-single-inverter</CpuInfoUrl>
 		<InverterInfoUrl>/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-starter-kit-renesas-starter-kit-rx23t</InverterInfoUrl>
-		<BoardDescription>The Renesas Starter Kit for RX23T is the perfect starter kit for developers who are new to the RX23T. The kit includes an LCD display module, on-chip debugging emulator, and integrated development environment so you can start evaluating the RX23T immediately after opening the box.</BoardDescription>
+		<BoardDescription>The kit includes an LCD display module, on-chip debugging emulator, and integrated development environment so you can start evaluating the RX23T immediately after opening the box.</BoardDescription>
 		<Project>
 			<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
 			<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6187xx0100-rx-encoderFOC.xml</ProjectUrl>
