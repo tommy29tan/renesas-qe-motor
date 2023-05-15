@@ -5,7 +5,7 @@
 		<DeviceName>RA6T2</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/MCK-RA6T2.png</BoardImageUrl>
 		<CpuName>RA6T2</CpuName>
-		<KitName>RTK0EMA270S00020BJ</KitName>
+		<KitPartNumber>RTK0EMA270S00020BJ</KitPartNumber>
 		<CpuInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control</CpuInfoUrl>
 		<InverterInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/rtk0ema270s00020bj-mck-ra6t2-renesas-flexible-motor-control-kit-ra6t2-mcu-group</InverterInfoUrl>
 		<BoardDescription>The MCK-RA6T2 is a development kit that enables easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors).</BoardDescription>
@@ -37,7 +37,7 @@
 		<DeviceName>RA6T1</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSSK-RA6T1.png</BoardImageUrl>
 		<CpuName>RA6T1</CpuName>
-		<KitName>RTK0EMA170S00020BJ</KitName>
+		<KitPartNumber>RTK0EMA170S00020BJ</KitPartNumber>
 		<CpuInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t1-120mhz-arm-cortex-m4-assp-ra6-motor-control</CpuInfoUrl>
 		<InverterInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/rtk0ema170s00020bj-motor-control-evaluation-system-ra-family-ra6t1-group</InverterInfoUrl>
 		<BoardDescription>The Motor Control Evaluation System for RA Family - RA6T1 Group is a low-voltage permanent magnet synchronous motor (brushless DC motor) solution that allows anyone to easily evaluate motor control.</BoardDescription>
@@ -67,7 +67,7 @@
 		<DeviceName>RX23T</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</BoardImageUrl>
 		<CpuName>RX23T</CpuName>
-		<KitName>RTK500523TS90000BE</KitName>
+		<KitPartNumber>RTK500523TS90000BE</KitPartNumber>
 		<CpuInfoUrl>/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-32-bit-microcontroller-floating-point-unit-fpu-ideal-controlling-single-inverter</CpuInfoUrl>
 		<InverterInfoUrl>/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx23t-starter-kit-renesas-starter-kit-rx23t</InverterInfoUrl>
 		<BoardDescription>The kit includes an LCD display module, on-chip debugging emulator, and integrated development environment so you can start evaluating the RX23T immediately after opening the box.</BoardDescription>
