@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Boards>
 	<Board>
-		<BoardName>MCK-RA6T2</BoardName>
+		<KitName>MCK-RA6T2</KitName>
 		<DeviceName>RA6T2</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/MCK-RA6T2.png</BoardImageUrl>
 		<CpuName>RA6T2</CpuName>
@@ -33,7 +33,7 @@
 		</Project>
 	</Board>
 	<Board>
-		<BoardName>RSSK-RA6T1</BoardName>
+		<KitName>RSSK-RA6T1</KitName>
 		<DeviceName>RA6T1</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSSK-RA6T1.png</BoardImageUrl>
 		<CpuName>RA6T1</CpuName>
@@ -63,7 +63,7 @@
 		</Project>
 	</Board>
 	<Board>
-		<BoardName>RSK-RX23T</BoardName>
+		<KitName>RSK-RX23T</KitName>
 		<DeviceName>RX23T</DeviceName>
 		<BoardImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</BoardImageUrl>
 		<CpuName>RX23T</CpuName>
