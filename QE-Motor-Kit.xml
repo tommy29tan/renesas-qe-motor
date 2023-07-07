@@ -11,6 +11,7 @@
 		<KitDescription>The MCK-RA6T2 is a development kit that enables easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors).</KitDescription>
 		<Motor>Brushless DC Motor (R42BLD30L3)</Motor>
 		<CommunicationBoard>RTK0EMXC90Z00000BJ</CommunicationBoard>
+		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/MCK-RA6T2-HardareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RA6T2_MCILV1_SPM_LESS_FOC_E2S_V101</ProjectFolderName>
 			<ProjectFolderName>RA6T2_MCILV1_SPM_LESS_FOC_TUNER_E2S_V101</ProjectFolderName>
@@ -45,6 +46,7 @@
 		<KitDescription>The Motor Control Evaluation System for RA Family - RA6T1 Group is a low-voltage permanent magnet synchronous motor (brushless DC motor) solution that allows anyone to easily evaluate motor control.</KitDescription>
 		<Motor>Brushless DC Mortor (TG-55L-KA 24V)</Motor>
 		<CommunicationBoard>None</CommunicationBoard>
+		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/RSSK-RA6T1-HardareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RA6T1_ESB_SPM_LESS_FOC_E2S_V101</ProjectFolderName>
 			<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an5558xx0111-motor.xml</ProjectUrl>
@@ -77,6 +79,7 @@
 		<KitDescription>The kit includes an LCD display module, on-chip debugging emulator, and integrated development environment so you can start evaluating the RX23T immediately after opening the box.</KitDescription>
 		<Motor>None</Motor>
 		<CommunicationBoard>None</CommunicationBoard>
+		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/RSK-RX23T-HardwareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
 			<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6187xx0100-rx-encoderFOC.xml</ProjectUrl>
