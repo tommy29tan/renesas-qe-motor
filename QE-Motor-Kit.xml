@@ -3,7 +3,7 @@
 	<Kit>
 		<KitName>MCK-RA6T2</KitName>
 		<DeviceName>RA6T2</DeviceName>
-		<KitImageUrl>https://github.com/tommy26tan/renesas-qe-motor/blob/af65d5d54d73ff86473ab3dbe7f55e823b2e42fa/BoardPictures/MCK-RA6T2.png</KitImageUrl>
+		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/MCK-RA6T2.png</KitImageUrl>
 		<CpuName>RA6T2</CpuName>
 		<KitPartNumber>RTK0EMA270S00020BJ</KitPartNumber>
 		<CpuInfoUrl>/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6t2-240mhz-arm-cortex-m33-trustzone-high-real-time-engine-motor-control</CpuInfoUrl>
