@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Kits>
 	<Kit>
-		<KitName>MCK-RA6T2</KitName>
+		<KitName>MCK-RA6T2 Renesas Flexible Motor Control Kit for RA6T2 MCU Group</KitName>
 		<DeviceName>RA6T2</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardPictures/MCK-RA6T2.png</KitImageUrl>
 		<CpuName>RA6T2</CpuName>
@@ -36,7 +36,7 @@
 		</Project>
 	</Kit>
 	<Kit>
-		<KitName>RSSK-RA6T1</KitName>
+		<KitName>Motor Control Evaluation System for RA Family - RA6T1 Group</KitName>
 		<DeviceName>RA6T1</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSSK-RA6T1.png</KitImageUrl>
 		<CpuName>RA6T1</CpuName>
@@ -69,7 +69,7 @@
 		</Project>
 	</Kit>
 	<Kit>
-		<KitName>RSK-RX23T</KitName>
+		<KitName>RSK-RX23T Renesas Flexible Motor Control Kit for RX23T MCU Group</KitName>
 		<DeviceName>RX23T</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</KitImageUrl>
 		<CpuName>RX23T</CpuName>
