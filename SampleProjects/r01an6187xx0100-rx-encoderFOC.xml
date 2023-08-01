@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
 	<Category>Encoder feedback</Category>
+	<CategoryID>Encoder</CategoryID>
 	<Category>Vector control</Category>
+	<CategoryID>Vector</CategoryID>
 	<ZipDownloadUrl>/document/scd/vector-control-permanent-magnet-synchronous-motor-encoder-evaluation-system-bldc-motor-structure/r01an6187xx0100-rx-encoderFOC.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RX23T</DeviceName>
