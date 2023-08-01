@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
 	<Category>Sensorless feedback</Category>
-	<CategoryID>Sensorless</CategoryID>
 	<Category>Vector control</Category>
-	<CategoryID>Vector</CategoryID>
 	<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-one-shunt-permanent-magnet-synchronous-motor-implementation/r01an6256xx0101-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RA6T1</DeviceName>
