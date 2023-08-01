@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
 	<Category>Encoder feedback</Category>
-	<CategoryID>Encoder</CategoryID>
 	<Category>Vector control</Category>
-	<CategoryID>Vector</CategoryID>
 	<ZipDownloadUrl>/document/scd/ra6t1-vector-control-permanent-magnet-synchronous-motor-encoder-implementation-sample-code/r01an5923xx0111-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RA6T1</DeviceName>
