@@ -5,7 +5,7 @@
 		<DeviceName>RA6T2</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardPictures/MCK-RA6T2.png</KitImageUrl>
 		<KitDescription>The MCK-RA6T2 is a development kit that enables easy evaluation of motor control using permanent magnet synchronous motors (brushless DC motors).</KitDescription>
-		<Motor>Brushless DC Motor (R42BLD30L3)</Motor>
+		<Motor en="Brushless DC Motor (R42BLD30L3)" jp="サンプルプロジェクト概要" /> 
 		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/MCK-RA6T2-HardwareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RA6T2_MCILV1_SPM_LESS_FOC_E2S_V101</ProjectFolderName>
@@ -35,7 +35,7 @@
 		<DeviceName>RA6T1</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSSK-RA6T1.png</KitImageUrl>
 		<KitDescription>The Motor Control Evaluation System for RA Family - RA6T1 Group is a low-voltage permanent magnet synchronous motor (brushless DC motor) solution that allows anyone to easily evaluate motor control.</KitDescription>
-		<Motor>Brushless DC Mortor (TG-55L-KA 24V)</Motor>
+		<Motor en="Brushless DC Mortor (TG-55L-KA 24V)" jp="サンプルプロジェクト概要" />
 		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/RSSK-RA6T1-HardwareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RA6T1_ESB_SPM_LESS_FOC_E2S_V101</ProjectFolderName>
@@ -63,7 +63,7 @@
 		<DeviceName>RX23T</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</KitImageUrl>
 		<KitDescription>The kit includes an LCD display module, on-chip debugging emulator, and integrated development environment so you can start evaluating the RX23T immediately after opening the box.</KitDescription>
-		<Motor>None</Motor>
+		<Motor en="None" jp="サンプルプロジェクト概要" />
 		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/RSK-RX23T-HardwareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
@@ -75,7 +75,7 @@
 		<DeviceName>RL78G1F</DeviceName>
 		<KitImageUrl>https://raw.githubusercontent.com/tak-kum/qem_test/main/BoardPictures/RSSK-RL78G1F.png</KitImageUrl>
 		<KitDescription>The Evaluation System for BLDC Motor provided by Renesas is a low-voltage permanent magnet synchronous motor (brushless DC motor) solution that allows anyone to easily evaluate the motor. After purchase, you can download the software from the website and start evaluating immediately.</KitDescription>
-		<Motor>Brushless DC Mortor (TG-55L-KA)</Motor>
+		<Motor en="Brushless DC Mortor (TG-55L-KA)" jp="サンプルプロジェクト概要" />
 		<HardwareInfo>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/RSSK-RL78G1F-HardwareInfo.html</HardwareInfo>
 		<Project>
 			<ProjectFolderName>RL78G1F_MRSSK_SPM_DETECT_INIT_POSI_E2S_CC_V110</ProjectFolderName>
