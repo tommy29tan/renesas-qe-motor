@@ -6,7 +6,7 @@
 	<SampleProject>
 		<DeviceName>RX23T</DeviceName>
 		<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
-		<ProjectName>RX23T permanent magnet synchrounous motor with encoder vector control</ProjectName>
-		<Description>This project is specific for RX23T permanent magnet synchronous motor with encoder feedback and vector control</Description>
+		<ProjectName en="RX23T permanent magnet synchrounous motor with encoder vector control" jp="エンコーダベクトル制御付き RX23T 永久磁石同期モータ" />
+		<Description en="This project is specific for RX23T permanent magnet synchronous motor with encoder feedback and vector control" jp="このプロジェクトは、エンコーダ フィードバックとベクトル制御を備えた RX23T 永久磁石同期モータに特化しています。" />
 	</SampleProject>
 </ZipFile>
