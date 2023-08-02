@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ZipFile>
-	<Category>Sensorless feedback</Category>
-	<Category>Vector control</Category>
+	<Category en="Sensorless feedback" jp="センサーレスフィードバック" />
+	<Category en="Vector control" jp="ベクトル制御" />
 	<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-permanent-magnetic-synchronous-motor-implementation-sample-code/r01an5558xx0111-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RA6T1</DeviceName>
