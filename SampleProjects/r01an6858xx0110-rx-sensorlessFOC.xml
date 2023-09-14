@@ -16,6 +16,7 @@
 		/>
 	</SampleProject>
 	<SampleProject>
+		<Category en="One shunt" jp="シャント 1 つ" />
 		<DeviceName>RX26T</DeviceName>
 		<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_TUNER_E2S_V110</ProjectFolderName>
 		<ProjectName
