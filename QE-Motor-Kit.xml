@@ -59,15 +59,26 @@
 		</Project>
 	</Kit>
 	<Kit>
-		<KitName en="RSK-RX23T Renesas Flexible Motor Control Kit for RX23T MCU Group" jp="RSK-RX23T RX23T MCU グループ用 Renesas フレキシブル モータ コントロール キット"/>
-		<DeviceName>RX23T</DeviceName>
-		<KitImageUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/d003e1ed0f80f6fdacefcd223b6bb5d896f95dea/BoardPictures/RSK-RX23T.jpg</KitImageUrl>
-		<KitDescription en="The kit includes an LCD display module, on-chip debugging emulator, and integrated development environment so you can start evaluating the RX23T immediately after opening the box." jp="このキットには、LCD ディスプレイモジュール、オンチップデバッグエミュレータ、統合開発環境が含まれており、箱を開けてすぐに RX23T の評価を開始できます。"/>
-		<Motor en="None" jp="なし"/>
-		<HardwareInfo en="https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/en/RSK-RX23T-HardwareInfo.html" jp="https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/jp/RSK-RX23T-HardwareInfo.html" />
+		<KitName en="MCK-RX26T Renesas Flexible Motor Control Kit for RX26T MCU Group" jp="MCK-RX26T Renesas Flexible Motor Control Kit for RX26T MCU Group"/>
+		<DeviceName>RX26T</DeviceName>
+		<KitImageUrl>https://raw.githubusercontent.com/tak-kum/qem_test/main/BoardPictures/MCK-RX26T.png</KitImageUrl>
+		<KitDescription 
+			en="The Motor Control Evaluation System for RA Family - RX26T Group is a low-voltage permanent magnet synchronous motor (brushless DC motor) solution that allows anyone to easily evaluate motor control."
+			jp="RAファミリ用モータ制御評価システム RX26Tグループは、誰でも簡単にモータ制御を評価できる低電圧永久磁石同期モータ（ブラシレスDCモータ）ソリューションです。"
+		/>
+		<Motor en="Brushless DC Mortor (TG-55L-KA 24V)" jp="ブラシレスDCモーター（TG-55L-KA 24V）"/>
+		<HardwareInfo en="https://raw.githubusercontent.com/tak-kum/qem_test/main/BoardHardwareInfo/en/RSSK-RA6T1-HardwareInfo.html" jp="https://raw.githubusercontent.com/tak-kum/qem_test/main/BoardHardwareInfo/jp/RSSK-RA6T1-HardwareInfo.html" />
 		<Project>
-			<ProjectFolderName>RX23T_ESB_SPM_ENCD_FOC_E2S_V100</ProjectFolderName>
-			<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/r01an6187xx0100-rx-encoderFOC.xml</ProjectUrl>
+			<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_E2S_V110</ProjectFolderName>
+			<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/main/SampleProjects/r01an6858xx0110-rx-sensorlessFOC.xml</ProjectUrl>
+		</Project>
+		<Project>
+			<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_TUNER_E2S_V110</ProjectFolderName>
+			<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/main/SampleProjects/r01an6858xx0110-rx-sensorlessFOC.xml</ProjectUrl>
+		</Project>
+		<Project>
+			<ProjectFolderName>RX26T_MCBA_MCILV1_SPM_LESS_FOC_1SHUNT_E2S_V110</ProjectFolderName>
+			<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/main/SampleProjects/r01an6858xx0110-rx-sensorlessFOC.xml</ProjectUrl>
 		</Project>
 	</Kit>
 	<Kit>
