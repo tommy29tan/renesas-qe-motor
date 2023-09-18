@@ -84,7 +84,7 @@
 		<HardwareInfo en="https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/en/GB01-RL78G1F-HardwareInfo.html" jp="https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/BoardHardwareInfo/jp/GB01-RL78G1F-HardwareInfo.html" />
 		<Project>
 			<ProjectFolderName>RL78G1F_MRSSK_SPM_DETECT_INIT_POSI_E2S_CC_V110</ProjectFolderName>
-			<ProjectUrl>https://raw.githubusercontent.com/tommy26tan/renesas-qe-motor/main/SampleProjects/an-r01an3596ej0110-motor.xml</ProjectUrl>
+			<ProjectUrl>https://tommy26tan.github.io/renesas-qe-motor/SampleProjects/an-r01an3596ej0110-motor.xml</ProjectUrl>
 		</Project>
 		<Project>
 			<ProjectFolderName>RL78G1F_MRSSK_120_E2S_CC_V200</ProjectFolderName>
