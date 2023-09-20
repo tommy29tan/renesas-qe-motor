@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QeTools>
-	<QeTool name="Motor" LatestVersion="1.0">
+	<QeTool name="Motor" version="1.0">
 		<KitUrl>https://tommy26tan.github.io/renesas-qe-motor/QE-Motor-Kit.xml</KitUrl>
 		<DeviceUrl>https://tommy26tan.github.io/renesas-qe-motor/QE-Motor-Device.xml</DeviceUrl>
 	</QeTool>
