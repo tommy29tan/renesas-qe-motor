@@ -6,6 +6,7 @@
 		<binLink>https://tommy26tan.github.io/renesas-qe-motor/RmwTuning/RA6T2_MCILV1_SPM_IS_FOC_TUNER_V100.hex</binLink>
 		<rmtLink>https://tommy26tan.github.io/renesas-qe-motor/RmwTuning/RA6T2_MCILV1_SPM_IS_FOC_TUNER_V100.rmt</rmtLink>
 		<sbdLink>https://tommy26tan.github.io/renesas-qe-motor/RmwTuning/RA6T2_MCILV1_SPM_IS_FOC_TUNER_V100.sbd</sbdLink>
+		<link>https://tommy26tan.github.io/renesas-qe-motor/RmwTuning/RA6T2_MCILV1_SPM_IS_FOC_TUNER_V100.zip</link>
 		<system>Induction</system>
 		<device>RA6T2</device>
 	</tuningFile>
