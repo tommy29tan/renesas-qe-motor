@@ -7,4 +7,9 @@
 		<system>Induction</system>
 		<device>RA6T2</device>
 	</tuningFile>
+	<tuningFile>
+	        <link>https://tommy26tan.github.io/renesas-qe-motor/RmwTuning/RA6T2_MCILV1_SPM_HALL_FOC_TUNER_V100.zip</link>
+		<system>Hall</system>
+		<device>RA6T2</device>
+	</tuningFile>
 </rmw>
