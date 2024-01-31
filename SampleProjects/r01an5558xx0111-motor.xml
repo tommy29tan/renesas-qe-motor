@@ -9,8 +9,7 @@
 		<ProjectName 
 		en="Sensorless Vector Control for Permanent Magnet Synchronous Motor" 
 		jp="永久磁石同期モータのセンサレスベクトル制御" />
-		<ToolChainType>gcc-arm-embedded</ToolChainType>
-	    <ToolChainVersion>6.3.1.20170620</ToolChainVersion>
+		<ToolChain type="gcc-arm-embedded" name="GNU ARM Embedded" version="6.3.1.20170620"/>
 		<FspVersion>4.5</FspVersion>
 		<ApplicationNoteUrl>/document/apn/ra6t1-sensorless-vector-control-permanent-magnet-synchronous-motor-implementation/</ApplicationNoteUrl>
 		<Description 
