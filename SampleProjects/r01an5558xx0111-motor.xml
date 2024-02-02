@@ -2,8 +2,8 @@
 <ZipFile>
 	<Category en="Sensorless feedback" jp="センサレスフィードバック" />
 	<Category en="Vector control" jp="ベクトル制御" />
-    	<ToolChain type="gcc-arm-embedded" name="GNU ARM Embedded" version="6.3.1.20170620" />
-    	<FspVersion>4.5</FspVersion>
+    	<ToolChain type="gcc-arm-embedded" name="GNU ARM Embedded" version="888" />
+    	<FspVersion>888</FspVersion>
 	<ZipDownloadUrl>/document/scd/ra6t1-sensorless-vector-control-permanent-magnetic-synchronous-motor-implementation-sample-code/r01an5558xx0111-motor.zip</ZipDownloadUrl>
 	<SampleProject>
 		<DeviceName>RA6T1</DeviceName>
