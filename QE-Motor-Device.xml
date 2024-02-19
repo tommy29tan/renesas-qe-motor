@@ -6,12 +6,12 @@
 			<DeviceSeriesName>RA4</DeviceSeriesName>
 			<Device>
 				<DeviceName>RA4T1</DeviceName>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6840xx0100-ra-sensorless-foc-1shunt.xml</ProjectUrl>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6841xx0100-ra-encoder-foc.xml</ProjectUrl>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6844xx0100-ra-sensorless-120.xml</ProjectUrl>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6839xx0100-ra-sensorless-foc.xml</ProjectUrl>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6843xx0100-ra-hall-120.xml</ProjectUrl>
-				<ProjectUrl>https://raw.githubusercontent.com/tak-kum/qem_test/POC5/SampleProjects/r01an6842xx0100-ra-inductive-foc.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy29tan/renesas-qe-motor/main/SampleProjects/r01an6840xx0110-ra-sensorless-foc-1shunt.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy29tan/renesas-qe-motor/main/SampleProjects/r01an6841xx0110-ra-encoder-foc.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy29tan/renesas-qe-motor/main/SampleProjects/r01an6844xx0110-ra-sensorless-120.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy29tan/renesas-qe-motor/main/SampleProjects/r01an6839xx0110-ra-sensorless-foc.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy29tan/renesas-qe-motor/main/SampleProjects/r01an6843xx0110-ra-hall-120.xml</ProjectUrl>
+				<ProjectUrl>https://raw.githubusercontent.com/tommy29tan/renesas-qe-motor/main/SampleProjects/r01an6842xx0110-ra-inductive-foc.xml</ProjectUrl>
 			</Device>
 		</DeviceSeries>
 		<DeviceSeries>
